@@ -1,0 +1,15 @@
+# Ignorer virtuelle miljø-kataloger
+venv/
+
+# Ignorer kompilert bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorer eventuelle miljøspesifikke konfigurasjonsfiler
+.env
+.DS_Store
+
+# Ignorer loggfiler
+*.log
+
